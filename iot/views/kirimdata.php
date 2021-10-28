@@ -61,7 +61,7 @@ if (mysqli_num_rows($cari)==0)
 
 	}
 	
-mysqli_query($con,"delete from * tmprfid");
+mysqli_query($con,"delete * from tmprfid");
 
 
 ?>
