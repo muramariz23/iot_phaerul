@@ -193,8 +193,6 @@ $GetAbsen = $absen->GetData_All();
                           <?php echo $Get['jam_pulang']; ?>
                         </td>
                         <td class="text-center">
-                        <a href="../views/view_put_siswa.php?nisn=<?php echo $Get['nisn'] ?>"><i class="tim-icons icon-pencil"></i> </a>
-                        <a>   |   </a>
                         <a href="../config/routes.php?function=delete_rekapabsen&id_absen=<?php echo $Get['id_absen'] ?>"><i class="tim-icons icon-trash-simple"></i> </a>
                         </td>
                       </tr>

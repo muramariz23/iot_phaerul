@@ -1,4 +1,4 @@
 <?php 
 
-header("Location: ../iot-windows/iot/views/view_siswa.php");
+header("Location: ../iot_phaerul/iot/views/view_siswa.php");
 ?>

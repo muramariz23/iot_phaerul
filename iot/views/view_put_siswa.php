@@ -40,6 +40,12 @@
             </a>
           </li>
           <li>
+            <a href="mode.php">
+              <i class="tim-icons icon-settings"></i>
+              <p>GANTI MODE</p>
+            </a>
+          </li>
+          <li>
             <a href="view_rekapabsen.php">
               <i class="tim-icons icon-paper"></i>
               <p>REKAP ABSENSI</p>
